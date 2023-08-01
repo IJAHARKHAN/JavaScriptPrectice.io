@@ -1,0 +1,10 @@
+console.time();
+console.log('moon khan');
+console.log([10, 20, 30]);
+console.table([10, 20, 30]);
+console.log({ moon: 29, shahid: 30, tree: "Neem" });
+console.table({ moon: 29, shahid: 30, tree: "Neem" });
+console.warn("Pls we all check your sheet belt.");
+console.error("Hello Print Erro.");
+// console.clear();
+console.timeEnd();
